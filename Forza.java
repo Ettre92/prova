@@ -10,7 +10,7 @@ public class Forza extends Esercizio implements Pianificabile{
         return peso;
     }
 
-ciao
+
     @Override
     public String getNome() {
         return super.getNome();
